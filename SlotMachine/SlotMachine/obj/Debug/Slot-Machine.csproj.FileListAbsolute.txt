@@ -1,0 +1,6 @@
+C:\Users\AV\source\repos\Slot-Machine\Slot-Machine\bin\Debug\Slot-Machine.exe.config
+C:\Users\AV\source\repos\Slot-Machine\Slot-Machine\bin\Debug\Slot-Machine.exe
+C:\Users\AV\source\repos\Slot-Machine\Slot-Machine\bin\Debug\Slot-Machine.pdb
+C:\Users\AV\source\repos\Slot-Machine\Slot-Machine\obj\Debug\Slot-Machine.csprojAssemblyReference.cache
+C:\Users\AV\source\repos\Slot-Machine\Slot-Machine\obj\Debug\Slot-Machine.exe
+C:\Users\AV\source\repos\Slot-Machine\Slot-Machine\obj\Debug\Slot-Machine.pdb
