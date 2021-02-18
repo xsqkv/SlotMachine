@@ -1,2 +1,2 @@
 # SlotMachine
-Simple Snake C# Game
+Simple Slot Machine C# Game
